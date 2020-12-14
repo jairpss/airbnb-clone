@@ -2,7 +2,7 @@
 
 This is an Airbnb clone based on Clever Programming tutorial
 
-Here is the live demo: https://airbnb-clone-ad78c.web.app/
+Here is the live demo 👉 https://airbnb-clone-ad78c.web.app/
 
 _Stack:_
 
